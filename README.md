@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LikaKharatishvili
 - 👀 I’m interested in ...Python learning
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on an internship program.
 - 📫 How to reach me ...likakharatishvili@icloud.com
 
 <!---
